@@ -16,7 +16,7 @@ Analyzed 1200 telecom customers to find why they leave.
 ![Dashboard](dashboard.png)
 
 ## Links
-- Colab Code: https://colab.research.google.com/drive/1lTuRYlIn0UyzNgxKJDnvQ3FOP-7OToSq?usp=sharing
+- Colab Notebook: https://colab.research.google.com/drive/1lTuRYlIn0UyzNgxKJDnvQ3FOP-7OToSq?usp=sharing
 - Power BI File: ./Customer_Churn_Analysis_Dashboard.pbix
 
 ## Author
